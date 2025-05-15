@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "art",
+        "value": "picture"
+      },
+      {
+        "trait_type": "style",
+        "value": "nature"
+      }
+    ],
+    "description": "A buitiful cloud.",
+    "image": "http://127.0.0.1:8080/ipfs/Qme2YfWa5aMFboNvz6Be3V292DevbAJfoT4bAg57PtTsH6",
+    "name": "bcloud"
+  }
+  
